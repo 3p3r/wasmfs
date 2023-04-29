@@ -1,0 +1,10 @@
+[package]
+name = "wasmfs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+js-sys = "0.3.61"
+once_cell = "1.17.1"
+radix_fmt = "1.0.0"
+wasm-bindgen = "0.2.84"
